@@ -1,0 +1,27 @@
+.div-1{
+    background-color: brown;
+    font-size: 40px;
+    color:white;
+    width: 1050px;
+}
+.div-1 .img1 {
+    width: 550px;
+    height: 150px;
+}
+.div-1 .p1{
+    position: absolute;
+    top: 9%;
+    left: 30%;
+    padding: 0;
+    margin: 0;
+}
+.div-1 .p2{
+    position: absolute;
+    top: 9%;
+    left: 40%;
+    padding: 0;
+    margin: 0;
+}
+.div2{
+    font-family: Arial ;
+}
