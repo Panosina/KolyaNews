@@ -30,22 +30,22 @@
 .div2 > p {
     position: absolute;
     left: 22%;
-    top:60% ;
+    top:69% ;
     font-family: arial;
 }
 .div2 > h2 {
     position: absolute;
     left: 22%;
-    top: 70%;
+    top: 80%;
     font-family: arial;
 }
 .div3{
     position: absolute;
     left: 35%;
-    top: 23%;
+    top: 25%;
 }
 .div2 .vid1{
     position: absolute;
     left: 20%;
-    top: 80%;
+    top: 90%;
 }
