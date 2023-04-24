@@ -24,28 +24,57 @@
 }
 .div2 > h1 {
     position: absolute;
-    left: 22%;
+    left: 27%;
     font-family: arial;
 }
 .div2 > p {
     position: absolute;
-    left: 22%;
+    left: 27%;
     top:69% ;
     font-family: arial;
 }
 .div2 > h2 {
     position: absolute;
-    left: 22%;
-    top: 80%;
+    left: 27%;
+    top: 100%;
     font-family: arial;
 }
-.div3{
+.div2 .img{
+    width: 1080px;
+    height: 1280px;
     position: absolute;
-    left: 35%;
-    top: 25%;
+    top: 110%;
+    left: 21%;
 }
-.div2 .vid1{
+.div2 .p2{
     position: absolute;
-    left: 20%;
-    top: 90%;
+    top: 85%;
+}
+.div2 .h3{
+    position: absolute;
+    top: 100%;
+    left: 21%;
+}
+.div2 .img1{
+    width: 540px;
+    height: 540px;
+    position: absolute;
+    top: 25%;
+    left: 35%;
+}
+.div2 .h4{
+    position: absolute;
+    top: 220%;
+    left: 23%;
+}
+.div2 .vid3{
+    position: absolute;
+    top: 230%;
+    left: 17%;
+}
+.div2 .p4{
+    position: absolute;
+    top: 20%;
+    left: 27.4%;
+    color: gray;
 }
